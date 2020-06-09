@@ -1,8 +1,8 @@
 # CalculadoraLogica2020-1
 
- Programa que calcula las tablas de verdad para una proposición lógica realizando el uso de Notación Polaca y verificando si la proposición está bien escrita o no.
+ Programa que genera la notacion polaca para una proposición lógica dada y revisa los errores que contiene la misma para verificar si la proposición está bien escrita o no.
  
- _Nota: Recomendamos utilizar el IDE Sypder de Anaconda para la verificación del código y la ejecución del mismo._
+ _Nota: Recomendamos encarecidamente utilizar el IDE Sypder de Anaconda para la verificación del código y la ejecución del mismo._
 
 ## Estudiantes:
 - Daniela Martinez - 20171020006
